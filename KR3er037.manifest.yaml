@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er037_000.yaml, hash: 'sha256:cd836b43016d0524c0578ec62805a26e4818b9c13646e0badfe21604db285ef8'}
+  - {seq: 0, filename: KR3er037_000.yaml, hash: 'sha256:3e293f917c830d49f9a6141c0e9192745c3c60ef599754dddd926383081f25a4'}
   - {seq: 1, filename: KR3er037_001.yaml, hash: 'sha256:cde239e0da4eef4c7132087247d0725c6d489e97bf44dd2e9fb6eca2f6337bb2'}
   - {seq: 2, filename: KR3er037_002.yaml, hash: 'sha256:e7802964e44b22145064d965c3cf3fcf8fa18ed78321248547c1f5b5b921a0d6'}
   - {seq: 3, filename: KR3er037_003.yaml, hash: 'sha256:60758b8409a1db6473db1f830d0a35b783160ab4f771a6af8be12d2536705552'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 15, filename: KR3er037_015.yaml, hash: 'sha256:3b7d15ab759be5240e5d6cdbeb1e461593cf4fb5dadcaa9cda872369511bbece'}
   - {seq: 16, filename: KR3er037_016.yaml, hash: 'sha256:9a7268ee1e5f120da7d672a0686aec88f71beb1704412778b6dc5ff749b6bf2c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er037_000.markers.yaml, hash: 'sha256:5f243c920767370e2f549600fdb0bbaa761a83f373b98e0e197c90c26c1c037d'}
+  - {seq: 0, role: markers, filename: assets/KR3er037_000.markers.yaml, hash: 'sha256:db00f4a41f57d76f53513fa5f1f843c6db46ecc23f5519be75c6ceadcf1abbde'}
   - {seq: 1, role: markers, filename: assets/KR3er037_001.markers.yaml, hash: 'sha256:135094a21349d0aa3f06f8af3106d05b8d3555d65f8908adb27eed3e981a14b6'}
   - {seq: 2, role: markers, filename: assets/KR3er037_002.markers.yaml, hash: 'sha256:df09086307ab0147097553847f223c22ddf876f9f49e01a8f27883c03324a74c'}
   - {seq: 3, role: markers, filename: assets/KR3er037_003.markers.yaml, hash: 'sha256:20a15a208be4f9bbcae0062bcf4738fc5245f0b91ae48724f59cdefc85fc611e'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er037_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 512
   label: 序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er037_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 512
     - 1216
   label: 序
@@ -78,8 +78,8 @@ table_of_contents:
     marker_id: KR3er037_jc_000-d3.h1s1
     span:
     - body
-    - 0
-    - 477
+    - 1216
+    - 1693
   label: 弁首
   type: section
   level: 1
@@ -88,8 +88,8 @@ table_of_contents:
     marker_id: KR3er037_jc_000-d5.h1s1
     span:
     - body
-    - 477
-    - 927
+    - 1693
+    - 2143
   label: 凡例
   type: section
   level: 1
@@ -2343,7 +2343,7 @@ table_of_contents:
   label: 口占八絕
   type: section
   level: 2
-hash: sha256:de2533776ee07f382a5849e664ef391630e99da97292a14504172475e750072c
+hash: sha256:bfdc77caf859f4588de17128b8868f2bd4f64285b8ee73e9844e074527870c16
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
